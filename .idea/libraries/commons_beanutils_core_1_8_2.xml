@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="commons-beanutils-core-1.8.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/external_libraries/commons-beanutils-core-1.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/external_libraries/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/external_libraries/databinding-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/external_libraries/filters-2.0.235.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/external_libraries/jxdatepicker-support-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/external_libraries/sqlite-jdbc-3.32.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/external_libraries/swing-worker-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/external_libraries/swingx-1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
